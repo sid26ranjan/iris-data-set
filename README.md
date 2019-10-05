@@ -4,6 +4,6 @@ the data consists of four features(in cm) namely sepal length,sepal width,petal 
 
 we will be using Logistic Regression to predict the category of the flower .
 for more information about tthe dataset visit https://en.wikipedia.org/wiki/Iris_flower_data_set
-and for the dataset visit 
+and for the dataset visit https://www.kaggle.com/uciml/iris.
 
 
